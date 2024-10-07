@@ -1,0 +1,2 @@
+<?php echo $__env->make('app_settings::fields._text', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+<?php /**PATH E:\codeastro\Laravel\Pharmacy-management-system\resources\views/vendor/app_settings/fields/text.blade.php ENDPATH**/ ?>
